@@ -1,0 +1,3 @@
+p:not(h1){
+    color: bisque;
+}
